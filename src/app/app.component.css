@@ -1,0 +1,15 @@
+#mapa-mapbox{
+    width: 90%;
+    height: 75%;
+    margin: auto;
+    margin-top: 4%;
+    background-color: beige;
+}
+
+.card-body{
+ background-color: beige;
+ width: 90%;
+ height: 15px;
+ margin: auto;
+
+}
